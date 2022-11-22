@@ -3,7 +3,7 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/loresgarcia/img/Logo.svg" alt="Logo da alura plus"> </p>
+<p align="center"> <img src="img\Logo.svg" alt="Logo da alura plus"> </p>
 <p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
 
 ## Tecnologias
@@ -12,4 +12,4 @@
 * SwiperJS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/a/FWzfrTv)
+![Screenshot da tela inicial do AluraBooks](https://imgur.com/6VaLemt)
