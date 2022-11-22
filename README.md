@@ -12,4 +12,4 @@
 * SwiperJS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/XbjXeH3.png)
+![Screenshot da tela inicial do AluraBooks](https://imgur.com/rcSUZJp.png)
